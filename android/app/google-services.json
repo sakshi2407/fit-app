@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679834227538",
+    "project_id": "loginverfication-49618",
+    "storage_bucket": "loginverfication-49618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679834227538:android:a52f460bcf40b36b34e08b",
+        "android_client_info": {
+          "package_name": "com.example.fit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679834227538-pekiusfte7r5kjq03g70qudfrf7q85pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBMagwCaQxiaxkWa9ownb5dxIO7GOlQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679834227538-pekiusfte7r5kjq03g70qudfrf7q85pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
